@@ -1,6 +1,6 @@
 {
   "simulation": {
-    "T": 4,
+    "T": 3,
     "alpha": 1.0,
     "num_trials": 100000
   },
