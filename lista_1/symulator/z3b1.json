@@ -1,0 +1,25 @@
+{
+  "simulation": {
+    "T": 200,
+    "alpha": 0.95,
+    "num_trials": 100000
+  },
+  "states": {
+    "names": ["S (Sprawny)", "W (Wadliwy)"],
+    "terminal_costs": [0.0, 4.0],
+    "initial_index": 0,
+    "strategy": [0, 0] 
+  },
+  "actions": [
+    {
+      "name": "Zostaw (Z)",
+      "costs_per_state": [0.0, 0.0],
+      "transitions": [[0.75, 0.25], [0.05, 0.95]]
+    },
+    {
+      "name": "Napraw (N)",
+      "costs_per_state": [5.0, 5.0],
+      "transitions": [[0.98, 0.02], [0.95, 0.05]]
+    }
+  ]
+}
