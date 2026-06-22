@@ -1,6 +1,6 @@
 # PWR_semestr_1_Programowanie_Dynamiczne_i_Teoria_Gier
 
-Stan na dzień 17.05.2026r.
+Stan na dzień 22.06.2026r.
 
 Szybkie ogłoszenia na początek:
 
@@ -26,4 +26,21 @@ Szybkie ogłoszenia na początek:
 
 - Zadanie 1. &rarr; TBD
 - Zadanie 2. &rarr; TBD
+- Zadanie 3. &rarr; rozwiązane
+
+## Lista 4.
+
+- Zadanie 1. &rarr; rozwiązane
+- Zadanie 2. &rarr; nie dodawałem, jest analogiczne jak zadanie 1.
+- Zadanie 3. &rarr; rozwiązane
+- Zadanie 4. &rarr; rozwiązane
+- Zadanie 5. &rarr; rozwiązane
+- Zadanie 6. &rarr; rozwiązane
+- Zadanie 7. &rarr; nie dodawałem, jest analogiczne jak zadanie 5.
+- Zadanie 8. &rarr; nie dodawałem, jest analogiczne jak zadanie 6.
+
+## Lista 5.
+
+- Zadanie 1. &rarr; rozwiązane
+- Zadanie 2. &rarr; rozwiązane
 - Zadanie 3. &rarr; rozwiązane
